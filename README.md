@@ -1,7 +1,7 @@
 # 🛡️ NeoQuest CTF 2024 
 
 [![CTF](https://img.shields.io/badge/CTF-Capture%20The%20Flag-red)](https://ctftime.org/)
-[![Category](https://img.shields.io/badge/Category-Forensics%20%7C%20Web%20%7C%20Crypto-blueviolet)](https://github.com/bequinG0/neoquest)
+[![Category](https://img.shields.io/badge/Category-Forensics%20%7C%20Wasm%20%7C%20Reverse-blueviolet)](https://github.com/bequinG0/neoquest)
 [![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)](LICENSE)
 
 **Репозиторий задач** для соревнования по информационной безопасности, проведённого в марте 2024 года.  
