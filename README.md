@@ -13,8 +13,8 @@
 
 | Категория       | Кол-во задач | Сложность       | Авторство       |
 |-----------------|-------------|----------------|----------------|
-| **Forensics**   | 1           | Medium-Hard    | bequ1n         |
-| **Wasm**        | 1           | Easy-Medium    | bequ1n         |
+| **Forensics**   | 1           | Easy-Medium    | bequ1n         |
+| **Wasm**        | 1           | Medium-Hard    | bequ1n         |
 | **Reverse**     | 2           | Medium         | bequ1n         |
 
 ---
